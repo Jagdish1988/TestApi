@@ -14,6 +14,6 @@ public class TestController {
 	
 	@GetMapping(path = "/")
 	public String getHome() {
-		return " Hi Welcome to you in Acybus family. \n We can append now";
+		return " Hi Welcome to you in Acybus family. \n We can append nows";
 	}
 }
